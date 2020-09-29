@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a web project for one of my university courses.
-- 🌱 I’m currently learning many different things about coding and things related to university. 
+- 🌱 I’m currently learning many different things related to university and about coding. 
 - 📫 How to reach me: email: mmoha323@uottawa.ca 
