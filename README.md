@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Mohanad.
 
 <!--
 **MohanadAhmed123/MohanadAhmed123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-🔭 I’m currently working on a web project for one of my university courses.
+-🌱 I’m currently learning many different things about coding and things related to university. 
+- 📫 How to reach me: email: mmoha323@uottawa.ca 
